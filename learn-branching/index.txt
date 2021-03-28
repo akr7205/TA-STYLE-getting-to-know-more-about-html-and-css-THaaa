@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 New index is found
+=======
+This is new index
+i am arun
+>>>>>>> dashboard
