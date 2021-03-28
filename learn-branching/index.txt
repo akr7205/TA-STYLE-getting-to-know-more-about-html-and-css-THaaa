@@ -1,2 +1,2 @@
-hi new index
+This is new index
 i am arun
